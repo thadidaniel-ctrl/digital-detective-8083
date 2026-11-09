@@ -1,6 +1,6 @@
 # The Digital Detective
 
-[Write 2-3 sentences in your own words: what this assignment is about and what you are learning.]
+i am learning about the the system and artifical intelligence
 
 ## Mission Index
 - [Mission 0 - Setup](mission-00-setup/README.md)

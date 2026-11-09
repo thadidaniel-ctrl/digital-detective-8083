@@ -17,7 +17,7 @@
 **What does the PID column represent?: a unique id for the process
 
 **Two processes I saw:daniel@daniels-MacBook-Pro ~ % ps -A -o pid,comm | head -20
-  PID COMM
+  PID COM
     1 /sbin/launchd
   338 /usr/libexec/logd
   341 /usr/libexec/UserEventAgent
@@ -47,7 +47,7 @@ daniel@daniels-MacBook-Pro ~ %
 
 
 
-### Task 3.3 — Paths and permissions
+# Task 3.3 — Paths and permissions
 
 **What I observed when I changed folders:**
 When I moved into mission-03-operating-system, the path became  becau/Users/.../digital-detective-8083/mission-03-operating-systemse 
@@ -70,3 +70,15 @@ The owner's letters are w_x This means the owner can can read and execute but ca
 | w — Write | you have the permiddion to write | that yoyu can edit the file or document |
 | x — Execute | you can execute  the file  | you can execute the file|
 
+
+
+### Task 3.4 — Operating-system responsibilities
+
+| OS responsibility | My explanation | Example |
+|---|---|---|
+| Process management |The OS decides which running programs get to use the CPU, and when. It starts, pauses and stops them.  |You have a browser and VS Code open at the same time, and both keep working.|
+| Memory management |The OS gives each program some of the RAM and makes sure programs don’t overwrite each other’s memory. It takes the memory back when a program closes.| You close a heavy app and your Mac feels faster.|
+| Device management |The OS controls hardware (keyboard, screen, speaker, printer) through drivers, so programs don’t have to talk to each device directly. |When you press a key, the OS passes it to the app you’re typing in.|
+| File management |The OS organises data into files and folders, and tracks where each file is stored on the disk.|Creating notes.txt, copying it with cp, and finding it later.|
+| User interface / shell |The OS gives you a way to interact with it: a graphical interface (windows, icons) and a command-line shell|Using Finder with the mouse, or typing commands in Terminal (zsh).|
+| Security and permissions |the os controlls who should use the the computer| The rw- letters from ls -that you saw in task |
