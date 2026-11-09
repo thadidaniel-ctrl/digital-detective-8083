@@ -40,5 +40,33 @@
 daniel@daniels-MacBook-Pro ~ % 
 
 
-1. 
-2.
+
+
+
+
+
+
+
+### Task 3.3 — Paths and permissions
+
+**What I observed when I changed folders:**
+When I moved into mission-03-operating-system, the path became  becau/Users/.../digital-detective-8083/mission-03-operating-systemse 
+When I ran cd .., the path /Users/.../digital-detective-8083.
+
+**Absolute path vs relative path:**
+An absolute path is /Users/[redacted]/digital-detective-8083/mission-02-terminal/terminal-practice/notes.txt. A relative path is mission-02-terminal/terminal-practice/notes.txt.
+
+- Absolute path example: /Users/[redacted]/digital-detective-8083/mission-03-operating-system
+- Relative path example: mission-03-operating-system (typed from the project folder)
+
+**Permissions of notes.txt:** (copy the first 10 characters from your ls -l output)
+
+**What the owner can do:**
+The owner's letters are w_x This means the owner can can read and execute but cannot not  read .
+
+| Permission | Meaning | Example |
+|---|---|---|
+| r — Read | you have the permission to read | readind a book online but you cannot edit it  |
+| w — Write | you have the permiddion to write | that yoyu can edit the file or document |
+| x — Execute | you can execute  the file  | you can execute the file|
+
