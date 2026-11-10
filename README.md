@@ -21,6 +21,6 @@ Each mission has its own folder and README. Every mission was completed, documen
 ## My Learning
 
 it was like a whole revision of the  2 months learning and it was fun and i now  fell  confident and i unlocked many new commndand 
-and it was like self assesment for me 
+and it was like self assesment for me  and it was also was challenging to me 
 
 
