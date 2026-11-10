@@ -45,3 +45,17 @@ Pushed to GitHub: yes
 Pull Request status: (created)
 
 
+
+| Git operation | Command | My explanation |
+|---|---|---|
+| Initialise a repository | `git init` |intilizes new  .git  a hidden folder  in the main folder|
+| Check status | `git status` |this command shows which commands are fles did we/modified changes cna you explain me what to do |
+| Stage changes | `git add` | choosing what to include. |
+| Commit changes | `git commit` |  A commit is a permanent snapshot of your project at a specific point in time. When you run git commit|
+| View history | `git log` |git log is the command that displays the commit history of a repository. It shows you every commit that has been made — in reverse chronological order (newest first).|
+| Create or list branches | `git branch` |With no arguments, lists all branches; with a name, creates a new branch at the current commit.|
+| Switch branches | `git switch` | Moves you to another branch so you can work on it|
+| Publish changes | `git push` |uploads local changes to remote repo |
+| Retrieve remote changes | `git pull` |Fetches changes from the remote repository and merges them into your current branch.
+|
+
