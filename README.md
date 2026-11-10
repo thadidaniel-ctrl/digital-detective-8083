@@ -1,6 +1,6 @@
 # The Digital Detective
 
-i am learning about the the system and artifical intelligence
+I am learning about the the system and artifical intelligencez
 
 ## Mission Index
 - [Mission 0 - Setup](mission-00-setup/README.md)
@@ -15,3 +15,12 @@ i am learning about the the system and artifical intelligence
 
 ## How this repository is organised
 Each mission has its own folder and README. Every mission was completed, documented and committed separately.
+
+
+
+## My Learning
+
+it was like a whole revision of the  2 months learning and it was fun and i now  fell  confident and i unlocked many new commndand 
+and it was like self assesment for me 
+
+
