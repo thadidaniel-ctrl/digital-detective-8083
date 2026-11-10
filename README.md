@@ -24,3 +24,23 @@ it was like a whole revision of the  2 months learning and it was fun and i now 
 and it was like self assesment for me  and it was also was challenging to me 
 
 
+
+### final verdit
+
+Syllabus: Computer Fundamentals, Operating Systems, Git & Version Control, and Computer Networks
+
+i did my best to complete this  sheet it took me  so much time then what i expected it was fun and it was also challengind 
+
+i think i got  some perfection in this stuff 
+## Computer Fundamentals
+### Operating Systems
+### Git & Version Control
+### Computer Networks
+
+
+`use of ai tools`
+i used the ai tools only when i got stuck and i also used them when i  wanted some perfection answer  and in the mission i wanted some perfetion and assitance>
+
+
+
+
