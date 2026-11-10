@@ -1,16 +1,16 @@
 ### Task 7.1 — Network concepts
 
-| Concept | My explanation | Example |
-|---|---|---|
-| LAN | devices connected in a small areas |school or hostel's fucking wifi |
-| MAN |A network covering a city or a large campus|A network linking a city’s government offices|
-| WAN |A network spanning countries or continents	|the internet|
-| DNS |Computers use number addresses, but people remember names, so something must translate|typing  website name insted  of the the numbers |
-| Router |A device that passes data between networks|our  Wi-Fi router, connecting home to the internet which is a |
-| Protocol |Agreed rules so different devices understand each others languages (http, https)|HTTP for web pages|
-| Packet switching |Data is split into small pieces that travel separately and are put back together|sending a phto online is an good expample|
-| Client-server |One side asks, the other side answers|Your browser (client) and a web server|
 
+| Concept | My explanation | Example |
+| --- | --- | --- |
+| LAN | devices connected in a small areas | school or hostel's wifi |
+| MAN | A network covering a city or a large campus | A network linking a city’s government offices |
+| WAN | A network spanning countries or continents | the internet |
+| DNS | Computers use number addresses, but people remember names, so something must translate | typing website name insted of the numbers |
+| Router | A device that passes data between networks | our Wi-Fi router, connecting home to the internet |
+| Protocol | Agreed rules so different devices understand each others languages (http, https) | HTTP for web pages |
+| Packet switching | Data is split into small pieces that travel separately and are put back together | sending a photo online is an good example |
+| Client-server | One side asks, the other side answers | Your browser (client) and a web server |
 
 ### task 7.2 - Observe network information
 ping -c 4 example.com
